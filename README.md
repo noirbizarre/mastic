@@ -1,0 +1,2 @@
+# mtastic
+Static site generator
